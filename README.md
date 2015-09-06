@@ -1,1 +1,1 @@
-An online test series project
+An online Educational Portal.
